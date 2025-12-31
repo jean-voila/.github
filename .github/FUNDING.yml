@@ -1,9 +1,5 @@
 # These are supported funding model platforms
+# Uncomment github line after setting up GitHub Sponsors at https://github.com/sponsors
 
-github: [jean-voila]
-# patreon: # Replace with your Patreon username
-# open_collective: # Replace with your Open Collective username
-# ko_fi: # Replace with your Ko-fi username
-# tidelift: # Replace with your Tidelift package name
-# buy_me_a_coffee: # Replace with your Buy Me a Coffee username
+# github: jean-voila
 custom: ["bitcoin:bc1qa0xyd9n0fy0hhk2mzg5g5zy8l7lc0t728f0jnq"]
